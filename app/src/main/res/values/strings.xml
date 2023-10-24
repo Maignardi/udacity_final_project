@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Political Preparedness</string>
+    <string name="upcoming_elections">UPCOMING ELECTIONS</string>
+    <string name="find_my_representatives">FIND MY REPRESENTATIVES</string>
+    <string name="main_logo">Main logo</string>
+    <string name="upcoming_elections_title">Upcoming Elections</string>
+    <string name="saved_elections">Saved Elections</string>
+    <string name="find_my_representatives_TITLES">FIND MY REPRESENTATIVES</string>
+    <string name="use_my_location">USE MY LOCATION</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="zip">Zip</string>
+    <string name="city">City</string>
+    <string name="my_representatives">My Representatives</string>
+
+    <!-- TODO: Add necessary string values -->
+
+</resources>
